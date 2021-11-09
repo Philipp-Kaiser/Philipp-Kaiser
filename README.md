@@ -1,19 +1,19 @@
 ## Moin! 👋
 
-### It's me, **Philipp** 😄
+### It's me, **Philipp**.
 
-I'm 26 years old and an upcoming *rocket* in WebDev!
+I'm 26 years old and an upcoming *rocket* in WebDev! 🚀
 
 Thank god that there is [neuefische](https://www.neuefische.de/) to help me with that! 😅✌️
 
 ### some of my hobbies:
-- roadtrips
-- hiking
-- sports
+- roadtrips 🚐
+- hiking 🏔
+- sports 🏋🏻
 
 Wait for more...trust me...really!
 
-🥃 
+💻 
 
 <!--
 
