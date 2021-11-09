@@ -10,8 +10,7 @@ Thank god that there is [neuefische](https://www.neuefische.de/) to help me with
 - hiking
 - sports
 
-![hiking?](https://www.screenhaus.de/wp-content/uploads/2020/11/hochland-schottland.jpg)
-
+![hiking?](https://media.istockphoto.com/photos/photo-of-the-campfire-at-the-mountains-with-a-vintage-teapot-on-it-picture-id1272890172?k=20&m=1272890172&s=612x612&w=0&h=yPYaF9IdwhpkGXpsXy21F9U5fF5jtuvH5W3f0jVyP44=)
 <!--
 **Philipp-Kaiser/Philipp-Kaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
