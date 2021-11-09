@@ -1,19 +1,17 @@
-### Moin 👋
+## Moin! 👋
 
-It's me, **Philipp** 😄
+### It's me, **Philipp** 😄
 
 I'm 26 years old and an upcoming *rocket* in WebDev!
 
 Thank god that there is [neuefische](https://www.neuefische.de/) to help me with that! 😅✌️
 
-some of my hobbies:
+### some of my hobbies:
 - roadtrips
 - hiking
 - sports
 
-Wait for more...
-...trust me...
-...really!
+Wait for more...trust me...really!
 
 <!--
 **Philipp-Kaiser/Philipp-Kaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
