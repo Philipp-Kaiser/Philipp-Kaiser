@@ -6,7 +6,7 @@ I'm 26 years old and an upcoming *rocket* in WebDev!
 
 Thank god that there is [neuefische](https://www.neuefische.de/) to help me with that! 😅✌️
 
-### some of my hobbies:
+some of my hobbies:
 - roadtrips
 - hiking
 - sports
