@@ -13,16 +13,9 @@ Thank god that there is [neuefische](https://www.neuefische.de/) to help me with
 
 Wait for more...trust me...really!
 
+🥃 
+
 <!--
-**Philipp-Kaiser/Philipp-Kaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[this is a link](link!)
-
-![this is an image](link!)
-
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
