@@ -11,6 +11,10 @@ some of my hobbies:
 - hiking
 - sports
 
+Wait for more...
+...trust me...
+...really!
+
 <!--
 **Philipp-Kaiser/Philipp-Kaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
