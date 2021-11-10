@@ -11,7 +11,7 @@ Thank god that there is [neuefische](https://www.neuefische.de/) to help me with
 - hiking 🏔
 - sports 🏋🏻
 
-Wait for more...trust me...really!
+Wait for more...
 
 💻 
 
