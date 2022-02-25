@@ -15,6 +15,8 @@ Wait for more...
 
 💻 
 
+...or connect with me via [LinkedIn](https://www.linkedin.com/in/philipp-kaiser-4936ba146/)!
+
 <!--
 
 - 🔭 I’m currently working on ...
