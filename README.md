@@ -4,8 +4,6 @@
 
 I'm 26 years old, based in Hamburg and an upcoming *rocket* in WebDev! 🚀
 
-Thank god that there is [neuefische](https://www.neuefische.de/) to help me with that! 😅✌️
-
 ### some of my hobbies:
 - roadtrips 🚐
 - hiking 🏔
